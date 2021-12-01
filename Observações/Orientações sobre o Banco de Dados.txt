@@ -1,0 +1,9 @@
+
+Banco de dados MYSQL:
+
+Para correto funcionamento do sistema, o mySQL deverá ser instalado e 
+criado uma conexão localhost com usuário "root" e senha "072211". 
+Um banco de dados com nome "estacionamento" deverá ser criado e em seguida 
+uma tabela com nome "clientes", onde nesta tabela deverá 
+possuir varchars de "id", "nome", "cpf", "placa" e "tipo". 
+Lembrando que apenas todos serão NN e apenas o "id" será AUTO INCREMENT.
